@@ -2,7 +2,7 @@
 
 # ✨ Hi there! 💜 I'm Mipa
 
-![Banner](assets/banner.gif)
+![Banner](assets/bannerProfile.gif)
 
 ### 🚀 Software Developer
 
